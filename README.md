@@ -11,3 +11,7 @@ As you progress through FinFit's modules and assessments, the AI-powered platfor
 ## System Design
 
 ![design-model](./images/FinFit%20-%20Design.png)
+
+## Backend Implementation
+- Django
+- Gemma access through Kaggle
