@@ -9,11 +9,12 @@ Fin-Fit doesn't just stop at assessments. It also provides personalized advice t
 As you progress through Fin-Fit's modules and assessments, the AI-powered platform adapts to your learning style and preferences. This ensures that you're continuously improving your financial knowledge and skills.
 
 ## Front-end Mockup
-
-<img src="./images/index.jpg" width="200" height="350"/>  
-<img src="./images/quiz.jpg" width="200" height="350"/> 
-<img src="./images/advisor.jpg" width="200" height="350"/> 
-<img src="./images/profile.jpg" width="200" height="350"/> 
+<p>
+    <img src="./images/index.jpg" width="200" height="350"/>  
+    <img src="./images/quiz.jpg" width="200" height="350"/> 
+    <img src="./images/advisor.jpg" width="200" height="350"/> 
+    <img src="./images/profile.jpg" width="200" height="350"/> 
+</p>
 
 ## Prototype
 https://www.figma.com/proto/nlmhuhnxnNbxp0N3llTnZc/Fin-Fit?type=design&node-id=15-298&t=M2Jka3UMTr6UBLvE-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=34%3A154&mode=design
@@ -27,5 +28,3 @@ https://www.figma.com/proto/nlmhuhnxnNbxp0N3llTnZc/Fin-Fit?type=design&node-id=1
 - Gemma on Vertex AI.
 - Document-based DB for the financial knowledge (Firestore).
 - Structured DB for user data (Cloud DB).
-- Django
-- Gemma access through Kaggle
