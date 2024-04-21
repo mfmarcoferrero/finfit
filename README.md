@@ -15,6 +15,8 @@ As you progress through Fin-Fit's modules and assessments, the AI-powered platfo
 <img src="./images/advisor.jpg" width="200" height="350"/> 
 <img src="./images/profile.jpg" width="200" height="350"/> 
 
+## Prototype
+https://www.figma.com/proto/nlmhuhnxnNbxp0N3llTnZc/Fin-Fit?type=design&node-id=15-298&t=M2Jka3UMTr6UBLvE-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=34%3A154&mode=design
 
 ## System Design
 
@@ -25,3 +27,5 @@ As you progress through Fin-Fit's modules and assessments, the AI-powered platfo
 - Gemma on Vertex AI.
 - Document-based DB for the financial knowledge (Firestore).
 - Structured DB for user data (Cloud DB).
+- Django
+- Gemma access through Kaggle
