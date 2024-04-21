@@ -8,10 +8,20 @@ Fin-Fit doesn't just stop at assessments. It also provides personalized advice t
 
 As you progress through Fin-Fit's modules and assessments, the AI-powered platform adapts to your learning style and preferences. This ensures that you're continuously improving your financial knowledge and skills.
 
+## Front-end Mockup
+
+<img src="./images/index.jpg" width="200" height="350"/>  
+<img src="./images/quiz.jpg" width="200" height="350"/> 
+<img src="./images/advisor.jpg" width="200" height="350"/> 
+<img src="./images/profile.jpg" width="200" height="350"/> 
+
+
 ## System Design
 
-![design-model](./images/FinFit%20-%20Design.png)
+![design-model](./images/FinFit%20-%20Design(1).png)
 
 ## Backend Implementation
-- Django
-- Gemma access through Kaggle
+- Django for backend implementation.
+- Gemma on Vertex AI.
+- Document-based DB for the financial knowledge (Firestore).
+- Structured DB for user data (Cloud DB).
