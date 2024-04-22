@@ -21,7 +21,7 @@ https://www.figma.com/proto/nlmhuhnxnNbxp0N3llTnZc/Fin-Fit?type=design&node-id=1
 
 ## System Design
 
-![design-model](./images/FinFit%20-%20Design(1).png)
+![design-model](./images/System_Design.png)
 
 ## Backend Implementation
 - Django for backend implementation.
